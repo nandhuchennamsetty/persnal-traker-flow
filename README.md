@@ -30,7 +30,7 @@ node server.js
 
 
 # API calls
-#### 1. **Get All Transactions**
+ 1. **Get All Transactions**
 - **URL**: `/transactions`
 - **Method**: GET
 - **Description**: Fetch all transactions.
@@ -51,7 +51,7 @@ node server.js
     }
 ]
 
-### 2. Get Transaction by ID
+2. Get Transaction by ID
 URL: /transactions/:id
 Method: GET
 Description: Fetch a transaction by ID.
@@ -73,7 +73,7 @@ Copy code
     "date": "2024-10-22T13:57:51.516Z"
 }
 
-## 3. Add New Transaction
+ 3. Add New Transaction
 URL: /transactions
 Method: POST
 Description: Add a new transaction.
@@ -102,7 +102,7 @@ Copy code
     "date": "2024-10-23T13:57:51.516Z"
 }
 
-# 4. Update Transaction
+4. Update Transaction
 URL: /transactions/:id
 Method: PUT
 Description: Update a transaction.
@@ -135,22 +135,21 @@ Response:
     "message": "Transaction deleted successfully"
 }
 
-## Postman screen shots
-## Postman Screenshots
+Postman screen shots
 
 Here are screenshots of each API call made using Postman.
 
-### 1. Get All Transactions
+ 1. Get All Transactions
 ![Get All Transactions](screenshots/get-all-transactions.png)
 
-### 2. Get Transaction by ID
+2. Get Transaction by ID
 ![Get Transaction by ID](screenshots/get-transaction-by-id.png)
 
-### 3. Add New Transaction
+ 3. Add New Transaction
 ![Add Transaction](screenshots/add-transaction.png)
 
-### 4. Update Transaction
+ 4. Update Transaction
 ![Update Transaction](screenshots/update-transaction.png)
 
-### 5. Delete Transaction
+5. Delete Transaction
 ![Delete Transaction](screenshots/delete-transaction.png)
