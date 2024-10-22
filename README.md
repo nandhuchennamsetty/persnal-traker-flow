@@ -140,16 +140,16 @@ Postman screen shots
 Here are screenshots of each API call made using Postman.
 
  1. Get All Transactions
-![Get All Transactions](screenshots/get-all-transactions.png)
+![Get All Transactions](D:\personalTrakerfloww.ai\backend\screenshot\Screenshot 2024-10-22 193807.png)
 
 2. Get Transaction by ID
-![Get Transaction by ID](screenshots/get-transaction-by-id.png)
+![Get Transaction by ID](D:\personalTrakerfloww.ai\backend\screenshot\Screenshot 2024-10-22 195301.png)
 
  3. Add New Transaction
-![Add Transaction](screenshots/add-transaction.png)
+![Add Transaction](D:\personalTrakerfloww.ai\backend\screenshot\Screenshot 2024-10-22 192840.png)
 
  4. Update Transaction
-![Update Transaction](screenshots/update-transaction.png)
+![Update Transaction](D:\personalTrakerfloww.ai\backend\screenshot\Screenshot 2024-10-22 201942.png)
 
 5. Delete Transaction
-![Delete Transaction](screenshots/delete-transaction.png)
+![Delete Transaction](D:\personalTrakerfloww.ai\backend\screenshot\Screenshot 2024-10-22 202801.png)
